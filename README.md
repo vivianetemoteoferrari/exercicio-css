@@ -1,1 +1,1 @@
-# exercico-css
+# exercicio-css
