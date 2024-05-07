@@ -33,6 +33,12 @@ header li a {
     margin: 0 auto;
 }
 
+img {
+    width: 200px; 
+    height: 200px; 
+    object-fit: cover; 
+}
+
 .articles {
     display: flex;
     flex-wrap: wrap;
@@ -100,4 +106,22 @@ section h2 {
 
 #economy .articles article a {
     background-color: #ffc400;
+}
+
+#tecnologia {
+    background-color: #b9faf8;
+
+}
+
+#tecnologia .articles article a {
+    background-color: #19508f;
+}
+
+#entretenimento {
+    background-color: #efd6f6;
+
+}
+
+#entretenimento .articles article a {
+    background-color: #711478;
 }
